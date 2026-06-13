@@ -1,0 +1,15 @@
+.next
+node_modules
+dist
+coverage
+.env
+.env*.local
+*.log
+tsconfig.tsbuildinfo
+Dockerfile.local
+public/uploads
+node_modules
+.next
+.env
+.env.local
+.env.production

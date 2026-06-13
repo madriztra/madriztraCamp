@@ -1,4 +1,4 @@
-# Music Growth OS
+# Music Growth OS 
 
 Production-oriented music marketing automation for independent artists and labels.
 
